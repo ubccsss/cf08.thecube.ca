@@ -1,0 +1,184 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type"
+        content="text/html; charset=iso-8859-1" />
+  <meta name="robots"
+        content="all" />
+  <meta name="generator"
+        content="RapidWeaver" />
+  <meta name="generatorversion"
+        content="3.2 (v1.0 Build 47)" />
+
+  <title>UBC Technical Career Fair 2007 - Home</title>
+  <link rel="stylesheet"
+        type="text/css"
+        media="screen"
+        href="rw_common/themes/benchdesignfree/styles.css" />
+  <link rel="stylesheet"
+        type="text/css"
+        media="print"
+        href="rw_common/themes/benchdesignfree/print.css" />
+  <link rel="stylesheet"
+        type="text/css"
+        media="screen"
+        href=
+        "rw_common/themes/benchdesignfree/css/sidebar/sidebar_right.css" />
+  <link rel="stylesheet"
+        type="text/css"
+        media="screen"
+        href=
+        "rw_common/themes/benchdesignfree/css/colors/green.css" />
+  <link rel="stylesheet"
+        type="text/css"
+        media="screen"
+        href=
+        "rw_common/themes/benchdesignfree/css/width/width_default.css" />
+        
+<script type="text/javascript"
+      src="rw_common/themes/benchdesignfree/javascript.js">
+</script>
+</head>
+<!-- This page was created with RapidWeaver from Realmac Software. http://www.realmacsoftware.com -->
+
+<body>
+  <div id="container">
+    <!-- Start container -->
+
+    <div id="sidebarContainer">
+      <!-- Start Sidebar wrapper -->
+
+      <div id="logo"></div>
+
+      <div id="navcontainer">
+        <!-- Start Navigation -->
+
+        <ul>
+          <li><a href="index.html"
+             rel="self"
+             id="current"
+             name="current">Home</a></li>
+
+          <li><a href="about/about.html"
+             rel="self">About the Fair</a></li>
+
+          <li><a href="company/companylist.html"
+             rel="self">Company List</a></li>
+
+          <li><a href="contact/contactus.html"
+             rel="self">Contact Us</a></li>
+        </ul>
+      </div><!-- End navigation -->
+      <!-- sidebar content such as the blog archive links -->
+
+      <div class="clearer"></div>
+    </div><!-- End sidebar wrapper -->
+
+    <div id="contentContainer">
+      <!-- Start main content wrapper -->
+
+      <div id="pageHeader">
+        <!-- Start page header -->
+
+        <div id="peel"></div>
+
+        <h1>UBC Technical Career Fair 2007</h1>
+
+        <h2>presented by UBC CS/IEEE/Engineering Physics/MIS</h2>
+      </div><!-- End page header -->
+
+      <div id="sidebar">
+        <!-- Start sidebar content -->
+
+        <div class="sideHeader"></div><!-- Sidebar header -->
+        <!-- sidebar content you enter in the page inspector -->
+      </div><!-- End sidebar content -->
+
+      <div id="content">
+        <!-- Start content -->
+        <img class="imageStyle"
+             alt="banner"
+             src="files/page0_1.jpg" />
+        <br />
+        <br />
+        For the first time, <strong>UBC CS</strong>,
+        <strong>IEEE</strong>, and <strong>Engineering
+        Physics</strong> are teaming up to offer companies access
+        to a greater portion of the student body than ever before.
+        Our combined career fair means a better opportunity for 
+	Tech companies to meet with as many as 2000 Computer Science 
+	and Engineering students attending our career fair!
+
+        <br />
+        <br />
+        <span style="font-size:15px;">Date:</span> <span style=
+        "font-size:15px; font-weight:bold;">Thursday, January 25th,
+        2007
+        <br /></span> <span style="font-size:15px;">Time:</span>
+        <span style="font-size:15px; font-weight:bold;">10 am
+        &ndash; 4 pm
+        <br /></span> <span style=
+        "font-size:15px;">Location:</span> <span style=
+        "font-size:15px; font-weight:bold;">Student Union Building
+        (Ballroom)</span><span style=
+        "font-size:17px; font-weight:bold;"><br /></span>
+	<br />
+
+
+        If you are a company that is interested in
+        attending our career fair, please download the PDF brochure
+        at <a href=
+        "http://www.thecube.ca/cf07/files/CareerFair07.pdf"
+             rel=
+             "self">http://www.thecube.ca/cf07/files/CareerFair07.pdf</a>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <strong>Sponsoring student societies:</strong>
+        <br />
+        <br />
+
+        <p style="text-align:center;"><a href=
+        "http://www.thecube.ca"
+           rel="self"><img class="imageStyle"
+             alt="csss"
+             src="files/page0_2.png" /></a>
+		<a href=
+             "http://www.engphys.ubc.ca/fizz.html"
+           rel="external"><img class="imageStyle"
+             alt="fizz"
+             src="files/page0_4.png" /></a>
+	<a href="http://mis.sauder.ubc.ca/mis-club/home.html" rel="external">
+	<img class="imageStyle" alt="MIS Club" src="files/MIS.jpg" /></a>
+	<a href=
+             "http://www.ece.ubc.ca/~ieee/"
+           rel="external"><img class="imageStyle"
+             alt="ieee"
+             src="files/page0_3.png" /></a>
+	</p>
+      </div><!-- End content -->
+
+      <div class="clearer"></div>
+    </div><!-- End main content wrapper -->
+  </div><!-- End container -->
+
+  <div id="breadcrumbcontainer">
+    <!-- Start the breadcrumb wrapper -->
+
+    <ul>
+      <li><a href="index.html">Home</a>&nbsp;&gt;&nbsp;</li>
+    </ul>
+  </div><!-- End breadcrumb -->
+
+  <div id="footer">
+    <!-- Start Footer -->
+
+    <p>Copyright 2007 Computer Science Students' Society <a href=
+    "mailto:csss@thecube.ca">Contact Us</a></p>
+  </div><!-- End Footer -->
+</body>
+</html>
